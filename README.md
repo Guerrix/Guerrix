@@ -50,3 +50,6 @@ I consider myself a passionate, self-taught and resourceful iOS Engineer, I trul
 
 ### Github Stats
 ![Jesus's github stats](https://github-readme-stats.vercel.app/api?username=guerrix&count_private=true&show_icons=true)
+
+
+Thank you, and have a nice day ✨!
