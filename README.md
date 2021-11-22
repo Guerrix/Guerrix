@@ -5,7 +5,7 @@ I'm an iOS Developer from Hermosillo, Sonora. I'm married to an amazing woman an
 I consider myself a passionate, self-taught and resourceful iOS Engineer, I truly love what I do and enjoy doing it. Over the past 9+ years, I have been lucky enough to collaborate and participate in a wide variety of iOS projects and meet great and talented iOS Engineers from which I have absorbed as much knowledge as possible to improve my skills and improve my ways to approach daily work challenges. I love to learn and contribute in any and every possible way.
 
 
-- 🏢 I'm currently working as a full-time employee at **JibJab**. And when possible I dedicate a bit more time at **Toptal** for side jobs.
+- 🏢 I'm currently working as a full-time employee at **Bitso**. And when possible I dedicate a bit more time at **Toptal** for side jobs.
 - 🚀 I use daily:
 
   ![iOS SDK](https://img.shields.io/badge/SDK-000000?style=flat-square&style=for-the-badge&logo=iOS&logoColor=white)
