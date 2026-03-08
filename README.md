@@ -8,17 +8,17 @@ Based in Hermosillo, Mexico and open to remote roles. Currently collaborating wi
 
 # 🚀 About Me
 
-I’m a passionate and largely self-taught iOS engineer who enjoys building polished products and solving complex technical challenges.
+I’m a passionate iOS engineer who enjoys building reliable, high-quality mobile products that scale.
 
-Over the years I’ve worked on applications across multiple industries including:
+Throughout my career I’ve worked across multiple industries including:
 
 - Fintech
 - Health & Fitness
+- Consumer apps
 - Social platforms
-- Entertainment
-- Productivity tools
+- Media & entertainment
 
-My focus is always the same: **shipping reliable, high-quality software that users depend on every day.**
+I enjoy working close to product teams, solving real problems, and shipping software that users rely on every day.
 
 ---
 
@@ -91,6 +91,26 @@ Tools I use every day:
 Always exploring modern iOS technologies and best practices.
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=Swift&logoColor=white)
+
+---
+
+# ⚡ Development Philosophy
+
+- Ship reliable software
+- Favor simple architectures that scale
+- Focus on maintainable codebases
+- Collaborate closely with product teams
+- Leverage automation and modern tooling to accelerate development
+
+---
+
+# 🌱 Currently Exploring
+
+I enjoy experimenting with new technologies and modern development workflows.
+
+- SwiftUI and modern Apple frameworks
+- AI-assisted development workflows (LLM tooling)
+- Cross-platform experimentation with Flutter
 
 ---
 
